@@ -1,5 +1,3 @@
-# Calculator's Enhance Version 
+# Task2 Branch
 
-Main Branch
-
-Main Branch contains Task-1 of Faker Installation and implementation. 
+Task2 Branch contains Test Data Generation by using pytest --num_records=100 command. 
